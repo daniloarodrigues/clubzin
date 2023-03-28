@@ -11,7 +11,7 @@ import { Buffer } from 'buffer';
 })
 export class PeopleService {
 
-  private readonly API = `/api/people`;
+  private readonly API = `/people`;
 
   constructor(private httpClient: HttpClient) { }
 
