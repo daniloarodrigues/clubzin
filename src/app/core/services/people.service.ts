@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { CheckMail } from '../../home/model/check-mail';
+import { CheckMail } from '../../model/check-mail';
 
 import { environment } from '../../../environments/environment';
 
